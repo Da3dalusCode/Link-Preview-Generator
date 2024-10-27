@@ -28,8 +28,14 @@ A simple tool to generate HTML embed code for URL previews. Ideal for platforms 
     python src/link_preview_generator.py
     ```
 
-## Screenshot
-_Example screenshot of the Link Preview Generator in action, showing URL input and generated HTML code output._
+## Screenshots
+Here’s how the Link Preview Generator looks in action:
+
+![Link Preview Generator Screenshot 1](images/screenshot.png)
+*How the GUI appears after pasting in a URL*
+
+![Link Preview Generator Screenshot 2](images/screenshot2.png)
+*The result after pasting the generated code on a website*
 
 ## Contributing
 Contributions are welcome! Submit pull requests or open issues to improve the tool.
