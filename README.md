@@ -32,9 +32,11 @@ A simple tool to generate HTML embed code for URL previews. Ideal for platforms 
 Here’s how the Link Preview Generator looks in action:
 
 ![Link Preview Generator Screenshot 1](images/screenshot.png)
+
 *How the GUI appears after pasting in a URL*
 
 ![Link Preview Generator Screenshot 2](images/screenshot2.png)
+
 *The result after pasting the generated code on a website*
 
 ## Contributing
